@@ -67,7 +67,7 @@ class index
 
         echo '<br>';
 
-        $arr = Db::table('table1')->field('name')->where('id','>','1')->select()->toArray();
+        $arr = Db::table('table1')->field('name')->field('status')->where('id','>','1')->select()->toArray();
         print_r($arr);
 
         echo '<br>';
