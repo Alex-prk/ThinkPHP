@@ -3,8 +3,12 @@ namespace app\controller;
 
 use think\facade\Db;
 
-class Index
+class index
 {
+    public function index()
+    {
+        return '<style>*{ padding: 0; margin: 0; }</style><iframe src="https://www.thinkphp.cn/welcome?version=' . \think\facade\App::version() . '" width="100%" height="100%" frameborder="0" scrolling="auto"></iframe>';
+    }
     public function one()
     {
         echo "我是第一个页面";
