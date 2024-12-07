@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/app/controller/index.php;/Users/alex/ThinkPHP/app/model/Test.php;/Users/alex/ThinkPHP/app/AppService.php;/Users/alex/ThinkPHP/app/BaseController.php;/Users/alex/ThinkPHP/app/common.php;/Users/alex/ThinkPHP/app/event.php;/Users/alex/ThinkPHP/app/ExceptionHandle.php;/Users/alex/ThinkPHP/app/middleware.php;/Users/alex/ThinkPHP/app/provider.php;/Users/alex/ThinkPHP/app/Request.php;/Users/alex/ThinkPHP/app/service.php;/Users/alex/ThinkPHP/config/app.php;/Users/alex/ThinkPHP/config/cache.php;/Users/alex/ThinkPHP/config/console.php;/Users/alex/ThinkPHP/config/cookie.php;/Users/alex/ThinkPHP/config/database.php;/Users/alex/ThinkPHP/config/filesystem.php;/Users/alex/ThinkPHP/config/lang.php;/Users/alex/ThinkPHP/config/log.php;/Users/alex/ThinkPHP/config/middleware.php;/Users/alex/ThinkPHP/config/route.php;/Users/alex/ThinkPHP/config/session.php;/Users/alex/ThinkPHP/config/trace.php;/Users/alex/ThinkPHP/config/view.php;/Users/alex/ThinkPHP/public/index.php;/Users/alex/ThinkPHP/public/router.php;/Users/alex/ThinkPHP/route/app.php;/Users/alex/ThinkPHP/view/README.md;/Users/alex/ThinkPHP/composer.json;/Users/alex/ThinkPHP/README 2.md;/Users/alex/ThinkPHP/README.md" />
+  </component>
+</project>
